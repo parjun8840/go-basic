@@ -32,3 +32,11 @@ drwxr-xr-x  3 arjupand  staff   96 Oct 20 17:37 bin
 -rw-r--r--  1 arjupand  staff  607 Oct 20 17:37 makefile
 drwxr-xr-x  3 arjupand  staff   96 Oct 20 17:37 src
 ```
+## Few initial things about go
+String or importing modules has to be in ""
+
+Evertything runs under main function
+
+Convention to call functions is by using ".", internal go function starts with capital letter
+
+Comment- Single line with "//", multi line with "/* */"
